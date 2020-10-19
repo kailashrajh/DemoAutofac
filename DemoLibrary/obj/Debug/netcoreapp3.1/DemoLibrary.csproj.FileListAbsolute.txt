@@ -1,0 +1,9 @@
+C:\Users\kaila\Documents\Visual Studio 2019\DemoAutofac\DemoLibrary\bin\Debug\netcoreapp3.1\DemoLibrary.deps.json
+C:\Users\kaila\Documents\Visual Studio 2019\DemoAutofac\DemoLibrary\bin\Debug\netcoreapp3.1\DemoLibrary.dll
+C:\Users\kaila\Documents\Visual Studio 2019\DemoAutofac\DemoLibrary\bin\Debug\netcoreapp3.1\DemoLibrary.pdb
+C:\Users\kaila\Documents\Visual Studio 2019\DemoAutofac\DemoLibrary\obj\Debug\netcoreapp3.1\DemoLibrary.csprojAssemblyReference.cache
+C:\Users\kaila\Documents\Visual Studio 2019\DemoAutofac\DemoLibrary\obj\Debug\netcoreapp3.1\DemoLibrary.AssemblyInfoInputs.cache
+C:\Users\kaila\Documents\Visual Studio 2019\DemoAutofac\DemoLibrary\obj\Debug\netcoreapp3.1\DemoLibrary.AssemblyInfo.cs
+C:\Users\kaila\Documents\Visual Studio 2019\DemoAutofac\DemoLibrary\obj\Debug\netcoreapp3.1\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\kaila\Documents\Visual Studio 2019\DemoAutofac\DemoLibrary\obj\Debug\netcoreapp3.1\DemoLibrary.dll
+C:\Users\kaila\Documents\Visual Studio 2019\DemoAutofac\DemoLibrary\obj\Debug\netcoreapp3.1\DemoLibrary.pdb

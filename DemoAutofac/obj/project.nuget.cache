@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dG1zMT+CPPao4UnMUaSIag5PGAQ08MWSMCwuvGioP2AAvGP54irckNZA9/L8Qj8svPzvbqjszgR2eogpiZ4zpg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kaila\\Documents\\Visual Studio 2019\\DemoAutofac\\DemoAutofac\\DemoAutofac.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kaila\\.nuget\\packages\\autofac\\6.0.0\\autofac.6.0.0.nupkg.sha512",
+    "C:\\Users\\kaila\\.nuget\\packages\\system.diagnostics.diagnosticsource\\4.7.1\\system.diagnostics.diagnosticsource.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
